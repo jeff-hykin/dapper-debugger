@@ -3,7 +3,7 @@
   "main": "main/main.js",
   "name": "dapper-debugger",
   "description": "Everything is detailed in the `documentation/setup.md`!",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
