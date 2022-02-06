@@ -1,4 +1,22 @@
 {
   "license": "MIT",
-  "main": "main/main.js"
+  "main": "main/main.js",
+  "name": "dapper-debugger",
+  "description": "Everything is detailed in the `documentation/setup.md`!",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeff-hykin/dapper-debugger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/jeff-hykin/dapper-debugger/issues"
+  },
+  "homepage": "https://github.com/jeff-hykin/dapper-debugger#readme"
 }
